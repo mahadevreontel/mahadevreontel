@@ -87,7 +87,7 @@
 <summary>📝 My GitHub Stats</summary>
 <br>
 
-[![Mahadev's github stats](https://github-readme-stats.vercel.app/api?username=mhmzdev&theme=gotham)](https://github.com/mhmzdev/github-readme-stats)
+[![Mahadev's github stats](https://github-readme-stats.vercel.app/api?username=mahadevreontel&theme=gotham)](https://github.com/mahadevreontel/github-readme-stats)
 
 
 
