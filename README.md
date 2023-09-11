@@ -41,7 +41,7 @@
 
 ### A Student, Developer & Writer
 
-<img align="right" alt="GIF" src="boy.gif" width="500" height="320" />
+<img align="right" alt="GIF" src="boy.gif" width="500" height="420" />
 
 #### Talking about my personal stuff:
 
@@ -94,9 +94,7 @@ Open Source Contributor from <b>India<b>
 ![]()
 
 
-[quran]:
-[dsccui]: 
-[flutter_isb]:
+
 [profile]:
 [medium]: 
 [dribbble]:
