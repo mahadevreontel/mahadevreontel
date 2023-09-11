@@ -8,7 +8,7 @@
 
 <a href="">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-<!-- </a> -->
+</a>
 
 <a href="">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -22,7 +22,7 @@
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
 
-<a href="https://stackoverflow.com/users/12297382/hamza">
+<a href="">
     <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
 </a>
 </div>
@@ -46,12 +46,11 @@
 #### Talking about my personal stuff:
 
 
-
+- 👉 Leading [Flutter India][]
 - 💻 The tech I'm interested Flutter/ML/AR etc.
 - ✍ Technical writer at [Medium][medium]
-- 📱 First Live app on Play Store 
+- 📱 First Live app on Play Store [][]
 - ✨ I'm learning Flutter, Web scrapping, Automations etc.
-- 🎮 COD Modern Warfare 1 Multiplayer
 - 📄 Live [Portfolio][profile]
 - 🎨 [Dribbble][dribbble] profile
 
@@ -86,18 +85,18 @@
 
 <summary>📝 My GitHub Stats</summary>
 <br>
-
-[![Mahadev's github stats](https://github-readme-stats.vercel.app/api?username=mahadevreontel&theme=gotham)](https://github.com/mahadevreontel/github-readme-stats)
+<!-- [![Hamza's github stats](https://github-readme-stats.vercel.app/api?username=mhmzdev&theme=gotham)](https://github.com/mhmzdev/github-readme-stats) -->
 
 
 
 
 Open Source Contributor from <b>India<b> 
+![]()
 
 
-
-
-
+[quran]:
+[dsccui]: 
+[flutter_isb]:
 [profile]:
-[medium]:
-[dribbble]: 
+[medium]: 
+[dribbble]:
