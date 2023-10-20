@@ -39,7 +39,7 @@
 </div> -->
 
 
-### A Student, Developer & Writer
+### FLUTTER DEVELOPER
 
 <img align="right" alt="GIF" src="code.gif" width="500" height="320" />
 
